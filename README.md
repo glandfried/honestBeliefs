@@ -1,5 +1,3 @@
-# Honest Beliefs
-
 **Science is a human institution that aspires to reach the truth, that is, to formulate propositions that are valid for all people, both interculturally and intersubjectively.**
 Formal sciences validate their propositions by means of theorems, derived from applying the internal rules of a closed axiomatic system.
 Empirical sciences must validate their propositions within open systems, which always impose a degree of associated uncertainty.
