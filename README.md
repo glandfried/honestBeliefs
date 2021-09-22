@@ -1,6 +1,6 @@
-My people say that "the only truth is reality", and that if someone wants to explain you economics and you don't understand then they are lying to you.
-What we call science is neither truth nor reality, it is merely a discourse about reality that claims the status of truth.
-The best we can do is to work honestly to reach **intersubjective agreements that can be accepted by all members of our community and any other community**.
+My people say that "the only truth is reality", and if someone wants to explain you economics and you don't understand then they are lying to you.
+What we call empirical science is neither truth nor reality, it is merely a discourse about reality that claims the status of truth.
+The best we can do is to work honestly to reach **intersubjective agreements that can be accepted by all members of our and any other community**.
 
 Formal sciences validate their propositions by means of theorems, derived from applying the internal rules of a closed axiomatic system.
 Empirical sciences must validate their propositions within open systems, which always impose a degree of associated uncertainty.
