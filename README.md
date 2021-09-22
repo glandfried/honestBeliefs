@@ -13,25 +13,26 @@ One possible **belief distribution** is:
 ![montyHall_1](./figures/montyHall_1.png)
 
 which represents a relative preference for the middle box.
-But if we really don't have any information regarding where the gift is, we will easily agree that there is no reason to have a preference for any of the options.
+But if we really don't have any information regarding where the gift is, there is no reason to have a preference for any of the options, which will undoubtedly make us agree with the following belief distribution.
 
 ![montyHall_2](./figures/montyHall_2.png)
 
-**This type of belief distributions, which allow intersubjective agreement, we will call _honest belief_**.
-Honest beliefs are the ones that maximize uncertainty given the available information.
-In this case, having no prior information, we divide the belief equally.
+**This type of belief distributions, which allow intersubjective agreement, we will call it _honest belief_**.
+Honest beliefs are the ones that maximize uncertainty, remaining consistent with the available information.
+In this case, having no prior information, we just divide the belief equally.
+This is an old principle known as "indifference".
 But how do we update beliefs honestly when we receive new information?
 
 ![montyHall_3](./figures/montyHall_3.png)
 
-Here we receive the information that the gift is not in the middle box, which allows us to assign belief 0 to it.
-To update the belief of the rest of the boxes we need to interpret what the hint is telling us.
-Suppose the clue depends on where the gift is, it tells us where there is no gift.
+Here we receive the data that the gift is not in the middle box, which allows us to assign belief 0 to it.
+However, to update the belief of the rest of the boxes we need to interpret what the hint is telling us.
+Suppose the clue depends on where the gift is, it can only tell us where the gift is not.
 We can represent this relationship with the following causal model.
 
 ![modelo_causal_0](./figures/modelo_causal_0.png)
 
-Following the principle of indifference that we used previously to define the honest belief distribution, we now divide our belief equally along the paths of the causal model.
+Following the principle of indifference on which we relied earlier, we now divide our belief equally among the forks of the causal model paths.
 
 ![modelo_causal_0_caminos](./figures/modelo_causal_0_caminos.png)
 
@@ -41,25 +42,25 @@ Our joint honest belief (prior to see the data) is,
 ![modelo_causal_0_conjunta](./figures/modelo_causal_0_conjunta.png)
 
 It is honest because it maximizes uncertainty given the information available so far: the causal model.
-And it is joint because it is the belief about the simultaneous occurrence of both variables, $\text{Belief}(r,s)$.
+And it is joint because it is the belief about a simultaneous occurrence of both variables, $\text{Belief}(r,s)$.
 
 ## Probability theory
 
 The rules of probability have been derived from a large number of axiomatic systems, conceptually distinct and independent of each other, which is a strong point in their favor.
-But perhaps more importantly, they **guarantee to maximize uncertainty given empirical (data) and formal (causal models) information**.
+But perhaps more importantly, they **ensure maximization of uncertainty given empirical and formal information (data and causal models)**.
 
 Probability theory has only two rules: the sum rule and the product rule.
-The first rule computes the belief of a single variable by integrating in equal parts the joint belief distribution.
+The first one computes the belief of a single variable by integrating in equal parts the joint belief distribution.
 For example, the honest belief about the gifts is again 1/3,
 
 $$\text{Belief}(r_i) = \sum_j \text{Belief}(r_i, s_j) = 1/3$$
 
-And the same applies to the hint.
+And the same applies to the hint variable.
 
 $$\text{Belief}(s_j) = \sum_i \text{Belief}(r_i, s_j) = 1/3$$
 
-The second rule is the one that will allow us to fulfill the objective we had set ourselves, to update the belief about the gift after having seen the hint.
-It consists of preserving only the joint belief that is consistent with the data, $\text{Belief}(r_i, s_2)$.
+The second rule is the one that allow us to fulfill the objective we had set ourselves: update the belief about the gift after having seen the hint.
+It consists of preserving the joint belief that is consistent with the data, $\text{Belief}(r_i, s_2)$.
 
 ![modelo_causal_0_condicional](./figures/modelo_causal_0_condicional.png)
 
@@ -81,14 +82,14 @@ This relationship can be represented by the following causal model.
 
 ![montyHall_model](./figures/montyHall_model.png)
 
-This model is better known as the Monty Hall.
+This model is better known as the Monty Hall game.
 To simplify the problem, we assume that box 1 is the one that remains closed, $c=1$.
 Suppose that in this context we receive the following hint.
 
 ![montyHall_7](./figures/montyHall_7.png)
 
 How should we honestly update our beliefs?
-As we did before, we maximize uncertainty by splitting beliefs along the paths of the causal model in order to define the honest joint belief.
+As we did before, we maximize uncertainty by splitting beliefs along the forks of the causal model paths.
 
 ![modelo_causal_1_caminos](./figures/modelo_causal_1_caminos.png)
 

@@ -15,12 +15,12 @@ Una posible **distribuión de creencias** es:
 ![montyHall_1](./figures/montyHall_1.png)
 
 lo que representa una preferencia parcial por la caja del medio.
-Pero si de verdad no tenemos ninguna información respecto de dónde está el regalo, fácilmente vamos a llegar a un acuerdo respecto de que no hay motivos para tener preferencia por ninguna de las opciones.
+Pero si de verdad no tenemos ninguna información respecto de dónde está el regalo, no hay motivos para tener preferencia por ninguna de las opciones, lo que sin lugar a dudas nos hará estar de acuerdo en la siguiente distribución de creencias.
 
 ![montyHall_2](./figures/montyHall_2.png)
 
 **Este tipo de distribuciones de creencias, que permiten el acuerdo intersubjetivo, la vamos a llamar _creencia honesta_**.
-Las creencias honestas son las que maximizan incertidumbre dada la información disponible.
+Toda creencias honestas maximiza incertidumbre siendo coherente con la información disponible.
 En este caso, en el que no tenemos información previa, la obtuvimos dividiendo la creencia en partes iguales.
 ¿Pero cómo hacemos para actualizar las creencias de forma honesta cuando recibimos nueva información?
 
