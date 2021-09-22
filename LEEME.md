@@ -1,12 +1,13 @@
 # Honest Beliefs
 
-En mi pueblo se dice que la única verdad es la realidad, y que si te quieren explicar economía y no se entiende entonces te están mintiendo.
-Eso que llaman ciencia no es verdad ni realidad, es apenas un discurso sobre la realidad que pretende estatus de verdad.
-Lo mejor que podemos hacer quienes trabajamos en ese campo es trabajar honestamente para alcanzar **acuerdos intersubjetivos que puedan ser aceptados por todos los miembors de nuestra comunidad, de toda comunidad**.
-
+La ciencia es una institución humana que aspira alcanzar la verdad, esto es de formular proposiciones que tengan validez universal.
 Las ciencias formales validan sus proposiciones mediante teoremas, resultados derivados de aplicar las reglas internas a un sistema axiomático cerrado.
 Las ciencias empíricas deben validar sus proposiciones dentro de sistemas abiertos, lo que impone siempre un grado de incertidumbre asociada.
 **¿Cuál es entonces la fuente de validez del conocimiento empírico?**
+
+En mi pueblo se dice que la única verdad es la realidad, y que si te quieren explicar economía y no se entiende entonces te están mintiendo.
+Eso que llaman ciencia no es verdad ni realidad, es apenas un discurso sobre la realidad que pretende estatus de verdad.
+Lo mejor que podemos hacer quienes trabajamos en ese campo es trabajar honestamente para alcanzar **acuerdos intersubjetivos que puedan ser aceptados por todos los miembors de nuestra comunidad, de toda comunidad**.
 
 Supongamos que tenemos 3 cajas y sabemos que detrás de una hay un regalo.
 Una posible **distribuión de creencias** es:
@@ -110,7 +111,8 @@ Que normalizado en partes iguales para que sume 1 queda como
 Esta respuesta es diferente a la que obtuvimos con el primer modelo causal.
 Sin embargo, **ambas comparten la propiedad de ser la distribución de creencias que maximiza la incertidumbre dada la evidencia formal (modelo causal) y empírica (datos), lo que hace que sean proposiciones sobre las que podemos acordar tanto intercultural como intersubjetivamente**.
 
-Las comunidades nativas de mi región sin embargo me recuerdan que el acuerdo debe ser con la madre tierra toda, o simplemente no hay acuerdo, hay explotación.
+La ciencia es una proyecto intercultural de acuerdos intersubjetivos.
+Sin embargo, las comunidades nativas de mi región me recuerdan que el acuerdo debe ser con la madre tierra toda, o simplemente no hay acuerdo, hay explotación.
 Entonces la verdad es que (casi) todo es mentira en este mundo.
 Porque desde que surgió eso que llamamos la "ciencia moderna" lo que está ocurriendo es una proceso de perdida irreversible de biodiversidad.
 
