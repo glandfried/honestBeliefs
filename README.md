@@ -108,7 +108,7 @@ And then normalized so that together it adds up to 1 is
 ![montyHall_8](./figures/montyHall_8.png)
 
 This answer is different from the one we obtained with the first causal model.
-However, **both share the property of being the distribution of beliefs that maximizes uncertainty given the evidence, formal (causal model) and empirical (data), which makes them propositions that are valid for all people, both interculturally and intersubjectively**.
+However, **Both share the property of being the belief distribution that maximizes uncertainty given the formal and empirical evidence (causal model and data), making them propositions on which we can agree both interculturally and intersubjectively.**.
 
 Science is an intercultural project of intersubjective agreements.
 However, the native communities of my region remind me that the agreement must be with the whole Mother Nature, or there is simply no agreement, there is exploitation.
