@@ -1,4 +1,7 @@
-**Science is a human institution that aspires to reach the truth, that is, to formulate propositions that are valid for all people, both interculturally and intersubjectively.**
+My people say that "the only truth is reality", and that if someone wants to explain you economics and you don't understand then they are lying to you.
+What we call science is neither truth nor reality, it is merely a discourse about reality that claims the status of truth.
+The best we can do is to work honestly to reach **intersubjective agreements that can be accepted by all members of our community and any other community**.
+
 Formal sciences validate their propositions by means of theorems, derived from applying the internal rules of a closed axiomatic system.
 Empirical sciences must validate their propositions within open systems, which always impose a degree of associated uncertainty.
 **Which is therefore the source of validity for empirical knowledge?**
@@ -105,6 +108,8 @@ And then normalized so that together it adds up to 1 is
 This answer is different from the one we obtained with the first causal model.
 However, **both share the property of being the distribution of beliefs that maximizes uncertainty given the evidence, formal (causal model) and empirical (data), which makes them propositions that are valid for all people, both interculturally and intersubjectively**.
 
+The native communities of my region however remind me that the agreement must be with the whole mother nature, or there is simply no agreement, there is exploitation.
+So the truth is that (almost) everything is a lie in this world, because since the emergence of what we call "modern science" what is happening is a process of irreversible loss of biodiversity.
 
 
 
