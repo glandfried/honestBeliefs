@@ -110,7 +110,7 @@ And then normalized so that together it adds up to 1 is
 This answer is different from the one we obtained with the first causal model.
 However, **Both share the property of being the belief distribution that maximizes uncertainty given the formal and empirical evidence (causal model and data), making them propositions on which we can agree both interculturally and intersubjectively.**.
 
-Science is an intercultural project of intersubjective agreements.
+We have argued that science is an intercultural project of intersubjective agreements.
 However, the native communities of my region remind me that the agreement must be with the whole Mother Nature, or there is simply no agreement, there is exploitation.
 So the truth is that (almost) everything is a lie in this world, because since the emergence of what we call "modern science" a process of irreversible loss of biodiversity has begun.
 

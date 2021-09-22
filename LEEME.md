@@ -22,13 +22,14 @@ Pero si de verdad no tenemos ninguna información respecto de dónde está el re
 **Este tipo de distribuciones de creencias, que permiten el acuerdo intersubjetivo, la vamos a llamar _creencia honesta_**.
 Toda creencias honestas maximiza incertidumbre siendo coherente con la información disponible.
 En este caso, en el que no tenemos información previa, la obtuvimos dividiendo la creencia en partes iguales.
+Éste es un viejo principio conocido como "de indiferencia".
 ¿Pero cómo hacemos para actualizar las creencias de forma honesta cuando recibimos nueva información?
 
 ![montyHall_3](./figures/montyHall_3.png)
 
 Aquí recibimos el dato de que el regalo no está en la caja del medio, lo que nos permite asignar creencia 0 a esa caja.
 Para actualizar el resto de las cajas necesitamos interpretar qué nos está diciendo la pista.
-Supongamos que la pista depende de dónde está el regalo, nos dice dónde no está el regalo.
+Supongamos que la pista depende de dónde está el regalo, sólo nos puede indicar dónde no está el regalo.
 Esto lo podemos representar con el siguiente modelo causal.
 
 ![modelo_causal_0](./figures/modelo_causal_0.png)
@@ -111,7 +112,7 @@ Que normalizado en partes iguales para que sume 1 queda como
 Esta respuesta es diferente a la que obtuvimos con el primer modelo causal.
 Sin embargo, **ambas comparten la propiedad de ser la distribución de creencias que maximiza la incertidumbre dada la evidencia formal (modelo causal) y empírica (datos), lo que hace que sean proposiciones sobre las que podemos acordar tanto intercultural como intersubjetivamente**.
 
-La ciencia es una proyecto intercultural de acuerdos intersubjetivos.
+Hemos dicho que la ciencia es una proyecto intercultural de acuerdos intersubjetivos.
 Sin embargo, las comunidades nativas de mi región me recuerdan que el acuerdo debe ser con la madre tierra toda, o simplemente no hay acuerdo, hay explotación.
 Entonces la verdad es que (casi) todo es mentira en este mundo.
 Porque desde que surgió eso que llamamos la "ciencia moderna" lo que está ocurriendo es una proceso de perdida irreversible de biodiversidad.
