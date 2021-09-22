@@ -1,6 +1,6 @@
 Science is a human institution that aspires to reach the truth, formulating universally valid propositions.
 Formal sciences validate their propositions by means of theorems, derived from applying the internal rules of a closed axiomatic system.
-Empirical sciences must validate their propositions within open systems, which always impose a degree of associated uncertainty.
+Empirical sciences must validate their propositions within open systems, which always impose a degree of uncertainty.
 **Which is therefore the source of validity for empirical knowledge?**
 
 My people say that "the only truth is reality", and if someone wants to explain you economics and you don't understand then they are lying to you.
